@@ -7,7 +7,7 @@ services:
             # INFO: Make sure to set the correct Minecraft version, modloader, and Git URL.
             VERSION: "1.20.1"
             TYPE: "FORGE"
-            FORGE_VERSION: "47.3.5"
+            FORGE_VERSION: "47.3.7"
             PACKWIZ_URL: "https://raw.githubusercontent.com/exoumoon/server_template/main/pack.toml"
 
             MEMORY: "12G"
