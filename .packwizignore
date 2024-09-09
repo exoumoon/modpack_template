@@ -1,0 +1,13 @@
+server/
+assets/
+Justfile
+Dockerfile
+docker-compose.yml
+.gitkeep
+*.md
+*.mrpack
+*.zip
+.*ignore
+!mods/*.jar
+!shaderpacks/*.zip
+!resourcepacks/*.zip
